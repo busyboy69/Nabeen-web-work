@@ -208,7 +208,7 @@ function App() {
 
           <div className="project-buttons">
             <a
-              href="http://localhost:5174/"
+              href="https://taste-spice.vercel.app/"
               target="_blank"
               rel="noreferrer"
               className="demo-button"
@@ -237,7 +237,7 @@ function App() {
 
           <div className="project-buttons">
             <a
-              href="http://localhost:5175/"
+              href="https://ironcore-fitness-opal.vercel.app/"
               target="_blank"
               rel="noreferrer"
               className="demo-button"
@@ -266,7 +266,7 @@ function App() {
 
           <div className="project-buttons">
             <a
-              href="http://localhost:5176/"
+              href="https://lumiere-salon-ten.vercel.app/"
               target="_blank"
               rel="noreferrer"
               className="demo-button"
